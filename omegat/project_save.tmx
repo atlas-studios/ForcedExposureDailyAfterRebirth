@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee9" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>###第一章 重生成为团宠</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T151633Z" creationid="amandafong" creationdate="20201206T151633Z">
+        <seg>Chapter 1: Reborn As The Apple Of Everyone's Eyes </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
