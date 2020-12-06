@@ -607,3 +607,4 @@
 老总	CEO
 订婚	engagement
 娱乐圈	entertainment industry
+同学	classmates
