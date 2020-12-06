@@ -593,3 +593,5 @@
 家	family
 哥	Brother
 医院	hospital
+叶洛	Ye Luo
+叶氏集团	Ye Corporation
