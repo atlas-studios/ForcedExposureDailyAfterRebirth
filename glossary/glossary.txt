@@ -601,3 +601,7 @@
 上辈子	previous life
 二哥	Second Brother
 三	Third Brother
+妹妹	younger sister
+妹妹	sister
+未婚妻	fiancée
+老总	CEO
