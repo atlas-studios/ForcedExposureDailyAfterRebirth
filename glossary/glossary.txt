@@ -605,3 +605,4 @@
 妹妹	sister
 未婚妻	fiancée
 老总	CEO
+订婚	engagement
