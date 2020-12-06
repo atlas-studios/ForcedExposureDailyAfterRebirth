@@ -260,6 +260,14 @@
         <seg>The room, which she had slept in since she was a child, was deeply etched in her memory. However, it disappeared after the shameless woman Ye Mei appeared and snatched away her family. Since then, this room disappeared as well. Why did it appear again today? </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>面对曾经疼爱自己的父亲和哥哥们的各种相逼，同学们的嘲笑，性格极端的她直接跳了学校的池塘，险些淹死。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T162015Z" creationid="amandafong" creationdate="20201206T162015Z">
+        <seg>Faced with all kinds of pressure from her father and brothers, who used to love and dote on her very much, as well as the mockery of her classmates, Ye Li, who had an extreme personality, jumped straight into the pond in school where she almost drowned. </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
