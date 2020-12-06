@@ -140,6 +140,22 @@
         <seg>The light was cast on the person who was lying on the bed with her eyes closed, sweating profusely like she was experiencing some inexplicable agony. </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>自己二十三岁就嫁给了徐凤年，之后就再也没有回过家了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T155613Z" creationid="amandafong" creationdate="20201206T155613Z">
+        <seg>She had married Xu Fengnian at the age of twenty-three and ever since then, she had never returned home. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这个房间她从小睡到大，记忆深刻，但是在自家被叶眉那个无耻女人剥夺之后，这个房间就已经从此消失，如今又怎么会出现。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T155747Z" creationid="amandafong" creationdate="20201206T155747Z">
+        <seg>She had a </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
