@@ -599,3 +599,5 @@
 叶枫	Ye Feng
 帝都大学	Beijing University
 上辈子	previous life
+二哥	Second Brother
+三	Third Brother
