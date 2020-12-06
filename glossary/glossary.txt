@@ -592,3 +592,4 @@
 帝都	Beijing	Beijing
 家	family
 哥	Brother
+医院	hospital
