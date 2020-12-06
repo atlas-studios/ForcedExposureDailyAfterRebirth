@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>夜幕。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T152312Z" creationid="amandafong" creationdate="20201206T152312Z">
+        <seg>It was nighttime. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>寂静的房间中，隐约听到了女人微弱的呼吸声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T152334Z" creationid="amandafong" creationdate="20201206T152334Z">
+        <seg>In the quiet room, the faint sounds of a woman breathing faintly could be heard. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>帝都中心繁星庄园。</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T152306Z" creationid="amandafong" creationdate="20201206T152306Z">
         <seg>In Starry Manor in Beijing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>灯光打在床上的人儿上，只见她双眼紧闭，满头大汗，仿佛正在经历什么难以言喻的痛苦。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T152734Z" creationid="amandafong" creationdate="20201206T152734Z">
+        <seg>The light was cast on the person who was lying on the bed with her eyes closed, sweating profusely like she was experiencing some inexplicable agony. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
