@@ -12,6 +12,14 @@
         <seg>Chapter 1: Reborn As The Apple Of Everyone's Eyes </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>帝都中心繁星庄园。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201206T152306Z" creationid="amandafong" creationdate="20201206T152306Z">
+        <seg>In Starry Manor in Beijing. </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
