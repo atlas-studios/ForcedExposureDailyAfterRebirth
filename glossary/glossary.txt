@@ -619,3 +619,4 @@
 手机	mobile phone
 姐姐	Sister
 高考	national college entrance examinations
+监控	surveillance cameras
