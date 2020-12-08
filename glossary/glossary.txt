@@ -616,3 +616,4 @@
 妈妈	Mother
 向阳	Xiangyang
 别墅	mansion
+手机	mobile phone
