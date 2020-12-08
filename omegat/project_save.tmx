@@ -872,8 +872,8 @@
       <tuv lang="zh-CN">
         <seg>叶眉眸光闪了闪，正欲说什么，就见叶洛三兄弟从楼上一脸阴沉的走下。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201208T145910Z" creationid="amandafong" creationdate="20201208T145910Z">
-        <seg>Ye Mei's eyes glistened and she was just about to say something when she saw Ye Luo and her two brothers making their way downstairs with gloomy adn sullen expressions.</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201208T145913Z" creationid="amandafong" creationdate="20201208T145910Z">
+        <seg>Ye Mei's eyes glistened and she was just about to say something when she saw Ye Luo and her two brothers making their way downstairs with gloomy and sullen expressions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T181018Z" creationid="amandafong" creationdate="20201206T181018Z">
         <seg>It was no wonder that she had decided to kill herself in a moment of impulse. It turned out that her schoolmates were all culprits!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>难道叶漓醒来，又闹了吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201208T150420Z" creationid="amandafong" creationdate="20201208T150420Z">
+        <seg>'Did Ye Li throw a tantrum again fter regaining consciousness?'</seg>
       </tuv>
     </tu>
     <tu>
