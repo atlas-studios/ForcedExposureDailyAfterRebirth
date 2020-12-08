@@ -621,3 +621,4 @@
 高考	national college entrance examinations
 监控	surveillance cameras
 帝国集团	Empire Group
+高层	senior executives
