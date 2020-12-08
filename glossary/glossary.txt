@@ -615,3 +615,4 @@
 漓	Li
 妈妈	Mother
 向阳	Xiangyang
+别墅	mansion
