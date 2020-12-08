@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她急忙整理了一下裙摆，起身上前，担忧的问：“大哥，我姐姐怎么样了，她醒了吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201208T150502Z" creationid="amandafong" creationdate="20201208T150502Z">
+        <seg>She hurriedly adjusted the hem of her skirt, stood up, and walked forward. She asked worriedly, "Brother,how is Sister? Is she awake now?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她清楚的记得，自己被叶眉关在那个私人医院的时候，已是2028年。</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T162405Z" creationid="amandafong" creationdate="20201206T162405Z">
@@ -1536,8 +1544,8 @@
       <tuv lang="zh-CN">
         <seg>难道叶漓醒来，又闹了吗？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201208T150420Z" creationid="amandafong" creationdate="20201208T150420Z">
-        <seg>'Did Ye Li throw a tantrum again fter regaining consciousness?'</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201208T150423Z" creationid="amandafong" creationdate="20201208T150420Z">
+        <seg>'Did Ye Li throw a tantrum again after regaining consciousness?'</seg>
       </tuv>
     </tu>
     <tu>
