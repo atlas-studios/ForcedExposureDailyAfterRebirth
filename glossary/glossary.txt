@@ -623,3 +623,4 @@
 帝国集团	Empire Group
 高层	senior executives
 会议室	conference room
+总裁	CEO
