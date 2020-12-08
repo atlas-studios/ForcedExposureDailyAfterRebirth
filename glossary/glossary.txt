@@ -622,3 +622,4 @@
 监控	surveillance cameras
 帝国集团	Empire Group
 高层	senior executives
+会议室	conference room
