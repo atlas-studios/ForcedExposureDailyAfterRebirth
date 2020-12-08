@@ -618,3 +618,4 @@
 别墅	mansion
 手机	mobile phone
 姐姐	Sister
+高考	national college entrance examinations
