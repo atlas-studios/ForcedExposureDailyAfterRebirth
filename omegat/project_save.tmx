@@ -280,8 +280,8 @@
       <tuv lang="zh-CN">
         <seg>“这不就是你保持身材的好秘诀吗？我现在想减肥，自然得学着你一点，不然如何瘦的下去，你说是不是？”叶漓一脸天真的看她。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201209T150819Z" creationid="amandafong" creationdate="20201209T150819Z">
-        <seg>"Isn't that your secret method for staying in shape? I want to lose weight now, so I naturally have to learn from you. Otherwise, how can I lose weight?" Ye Li asked, looking at her innocently. </seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201209T150827Z" creationid="amandafong" creationdate="20201209T150819Z">
+        <seg>"Isn't that your secret method for staying in shape? I want to lose weight now, so I naturally have to learn from you. Otherwise, how can I lose weight?" Ye Li said, looking at her innocently. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>叶眉噎住。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201209T150831Z" creationid="amandafong" creationdate="20201209T150831Z">
+        <seg>Ye Mei choked. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>叶眉回过神，赶忙摇头，勉强笑笑：“我不是这个意思，姐姐你别误会，我没关系的。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201209T142134Z" creationid="amandafong" creationdate="20201209T142134Z">
@@ -1642,6 +1650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T162204Z" creationid="amandafong" creationdate="20201206T162204Z">
         <seg>Ignoring the fact that they were worried, she anxiously asked, "Brother, what's the date today?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她为了保持身材，每天吃的都很少，哪里像是叶漓一样，想吃什么就吃什么，不过她也乐得开心，自己在家虽然比不过叶漓，但是到了外面，呵呵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201209T150942Z" creationid="amandafong" creationdate="20201209T150942Z">
+        <seg>In order to stay in shape, Ye Mei ate very little food everyday, unlike Ye Li who would eat whatever she wanted to her heart's content. However, she was elated about that. Although she was inferior to Ye Li at home, things were different outside. </seg>
       </tuv>
     </tu>
     <tu>
