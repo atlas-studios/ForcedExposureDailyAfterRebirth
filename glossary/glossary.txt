@@ -625,3 +625,4 @@
 会议室	conference room
 总裁	CEO
 继母	stepmother
+女佣	maid
