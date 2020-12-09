@@ -629,3 +629,5 @@
 大小姐	Missy
 管家	butler
 营养师	nutritionist
+司机	chauffeur
+发型	hairstyle
