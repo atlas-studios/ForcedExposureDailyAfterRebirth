@@ -626,3 +626,4 @@
 总裁	CEO
 继母	stepmother
 女佣	maid
+大小姐	Missy
