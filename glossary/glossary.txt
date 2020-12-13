@@ -631,3 +631,4 @@
 营养师	nutritionist
 司机	chauffeur
 发型	hairstyle
+娱乐公司	entertainment company
