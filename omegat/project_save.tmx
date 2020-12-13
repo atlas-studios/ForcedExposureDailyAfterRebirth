@@ -184,8 +184,8 @@
       <tuv lang="zh-CN">
         <seg>“呵~”叶漓闻言，嗤笑了一声：“你作为我的妹妹，竟然不相信我，反倒是和外人合伙来逼我道歉，承担所有的责任，这知道的，以为你是在关心我，不知道的，恐还以为你和她们是一伙的，我就奇怪了，你也没亲眼看见啊，怎么就笃定了这事是我的错呢？你不是一向最关心我，一直站在我的身边的吗？怎么这会儿，却帮着外人来陷害我？”她疑惑又怀疑的看向叶眉，“还是说，人家给你钱了，你这么帮她？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201213T143612Z" creationid="amandafong" creationdate="20201213T143612Z">
-        <seg>Upon hearing her words, Ye Li sneered, "Ah, you're my younger sister and yet, you don't believe me at all.Instead, you gang up with others to force me to apologize and take full responsibility. Those who know what happened will think that you're showing me concern but those who don't might just think that you're in cahoots with them. I find it really strange. You did not see that happen with your own eyes, how are you so sure that it's my fault? Haven't you always been the most concerned about me? Haven't you always stood on my side? Why are you now ganging up with others to frame me?" Looking at Y</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T143654Z" creationid="amandafong" creationdate="20201213T143612Z">
+        <seg>Upon hearing her words, Ye Li sneered, "Ah, you're my younger sister and yet, you don't believe me at all.Instead, you gang up with others to force me to apologize and take full responsibility. Those who know what happened will think that you're showing me concern but those who don't might just think that you're in cahoots with them. I find it really strange. You did not see that happen with your own eyes, how are you so sure that it's my fault? Haven't you always been the most concerned about me? Haven't you always stood on my side? Why are you now ganging up with others to frame me?" Looking at Ye Mei apprehensively in confusion, she asked, "Or are you helping her because she paid you?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201208T172713Z" creationid="amandafong" creationdate="20201208T172713Z">
         <seg>The somber and pressurizing ambiance around him seemed to disappear without a trace in an instant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>周围的人闻言，也是惊愕的看向叶眉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T143917Z" creationid="amandafong" creationdate="20201213T143917Z">
+        <seg>Everyone looked at Ye Mei in shock when they heard her words. </seg>
       </tuv>
     </tu>
     <tu>
