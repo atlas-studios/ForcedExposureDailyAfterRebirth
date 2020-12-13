@@ -1520,8 +1520,8 @@
       <tuv lang="zh-CN">
         <seg>可今儿个是怎么了，一直帮着外人说话，让叶漓道歉，还变相的告诉大家，就是叶漓的错，真是奇了怪了。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201213T144119Z" creationid="amandafong" creationdate="20201213T144119Z">
-        <seg>a可今儿个是怎么了，一直帮着外人说话，让叶漓道歉，还变相的告诉大家，就是叶漓的错，真是奇了怪了。</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T144210Z" creationid="amandafong" creationdate="20201213T144119Z">
+        <seg>However, she seemed to be continuously standing up for outsiders today and making Ye Li apologize. That was indirectly telling others that it was Ye Li's fault, which was rather strange. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1746,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201208T150537Z" creationid="amandafong" creationdate="20201208T150520Z">
         <seg>Ye Luo glanced at the worried Ye Mei. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>叶漓不说这个问题，没人会多想，都觉得叶眉好像是在帮她说话。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T144522Z" creationid="amandafong" creationdate="20201213T144522Z">
+        <seg>If Ye Li did not bring up that issue, no one else would think much of it and they would all feel that Ye Mei seemed to be speaking up for her. </seg>
       </tuv>
     </tu>
     <tu>
