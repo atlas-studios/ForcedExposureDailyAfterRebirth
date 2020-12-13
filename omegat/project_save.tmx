@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>叶漓的性格虽然不好，经常得罪人，但是大多时候都是恼羞成怒的生气，什么时候这么会说话了？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T140911Z" creationid="amandafong" creationdate="20201213T140911Z">
+        <seg>Although Ye Li did not have a good temper and often offended others, it was mostly because she was infuriated after feeling ashamed. Since when had she ever been so sharp-tongued? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>叶漓的母亲是名门之后，叫做秦歌，父亲是大世家的少爷，叫叶明，两人青梅竹马，门当户对，几乎是所有人都艳羡的存在。</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T182226Z" creationid="amandafong" creationdate="20201206T182226Z">
@@ -3136,8 +3144,8 @@
       <tuv lang="zh-CN">
         <seg>相比较她的愤怒，周围的人更多的是震惊。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201213T140534Z" creationid="amandafong" creationdate="20201213T140534Z">
-        <seg>The people around her were shocked. </seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201213T140545Z" creationid="amandafong" creationdate="20201213T140534Z">
+        <seg>While she was angry, the people around her were shocked.</seg>
       </tuv>
     </tu>
     <tu>
