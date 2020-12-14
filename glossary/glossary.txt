@@ -636,3 +636,4 @@
 学长	Senior
 程艳	Cheng Yan
 老师	Teacher
+班长	class president
