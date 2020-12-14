@@ -248,8 +248,8 @@
       <tuv lang="zh-CN">
         <seg>“呵，这就把你吓到了？”叶漓上前，拍了拍女同学僵硬的肩膀，笑的和善极了：“我吓吓你而已，都是一个学校的同学，我怎么也不会做的这么过分，我也明白做粉丝的想维护偶像的心情，我也是学长的粉丝，怎么能不懂你的感觉呢，只是我们同为他的粉丝，何必自相残杀，我知道，可能刚刚是因为我妹妹的话，才会让你误以为真，发生了这样的事，我能理解。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201214T173053Z" creationid="amandafong" creationdate="20201214T173053Z">
-        <seg>"Hah, did that frighten you already?" Ye Li stepped forward to smack the stiffened shoulders of the girl. Smiling kindly, she said, "I was just scaring you. We're still schoolmates from the same school, I won't go so overboard. I understand that you're just a fan who wants to defend your idol. As a fan of Senior, how can I not understand how you feel? However, since we're fellow fans, we shouldn't turn against each other. I know that you only got mistaken because of my sister's words."</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201214T175341Z" creationid="amandafong" creationdate="20201214T173053Z">
+        <seg>"Hah, did that frighten you already?" Ye Li stepped forward to smack the stiffened shoulders of the girl. Smiling kindly, she said, "I was just scaring you. We're still schoolmates from the same school, I won't go so overboard. I understand that you're just a fan who wants to defend your idol. As a fan of Senior, how can I not understand how you feel? However, since we're both fans of the same idol, we shouldn't turn against each other. I know that you only got mistaken because of my sister's words."</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +514,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201209T152711Z" creationid="amandafong" creationdate="20201209T152600Z">
         <seg>"I still think that your previous hairstyle looks better. At least, it can hide your flaws," she deliberately emphasized in a passive-aggressive manner. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我都说了，咱们是同学，一句对不起就能解决的事情，何必闹大，你说呢？”叶漓一笑，可笑容不达眼底。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201214T175420Z" creationid="amandafong" creationdate="20201214T175420Z">
+        <seg>"I said, we are classmates. Why bother blowing up something that can be resolved with an apology?" Ye Li said with a smile, but it was not genuine. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>女同学却没注意，只是惊愕之余，一下就后悔了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201214T175456Z" creationid="amandafong" creationdate="20201214T175456Z">
+        <seg>However, the girl did not pay attention to it and simply felt stunned, after which she immediately regretted her actions. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>女同学本来都以为自己要完蛋了，没想到叶漓会突然这么说，她先是震惊，随后有些难以置信的看她：“你，你的意思是，不找我麻烦了？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201214T175330Z" creationid="amandafong" creationdate="20201214T175330Z">
@@ -3050,6 +3066,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T171456Z" creationid="amandafong" creationdate="20201206T171456Z">
         <seg>Due to the sensitivity of her identity, she had always been keeping it a secret. Other than Ye Mei and her brothers, no one else in school knew about it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她这样找叶漓的茬，对方竟然不怪罪她。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201214T175509Z" creationid="amandafong" creationdate="20201214T175509Z">
+        <seg>She made things hard for Ye Li but the latter did not blame her at all. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +3898,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201208T171719Z" creationid="amandafong" creationdate="20201208T171719Z">
         <seg>She took out her school uniform, which had a navy style design and consisted of a pleated skirt. It was beautiful. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且叶漓说的也对，要不是刚刚叶眉笃定了她做了那样的事情，自己也不会一时冲动的威胁她，犯下了这样的大错！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201214T175613Z" creationid="amandafong" creationdate="20201214T175613Z">
+        <seg>Besides, Ye Li was right. If it wasn't for the fact that Ye Mei was certain that Ye Li had done that, she wouldn't have gone to threaten Ye Li impulsively and made such a huge mistake!</seg>
       </tuv>
     </tu>
     <tu>
