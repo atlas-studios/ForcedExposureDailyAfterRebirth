@@ -633,3 +633,4 @@
 发型	hairstyle
 娱乐公司	entertainment company
 艺术系	Faculty of Arts
+学长	Senior
