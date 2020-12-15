@@ -2670,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>另一边，帝都最中心繁华地段，装修带着几分古风的御食坊楼下，一辆黑色豪车缓缓停下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T182109Z" creationid="amandafong" creationdate="20201215T182109Z">
+        <seg>On the other hand, a black luxury car slowly pulled over in the central bustling district of Beijing, right below Imperial Restaurant that had an ancient style.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>另一边，正在工作的叶洛接到了手下打来的电话。</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201215T180718Z" creationid="amandafong" creationdate="20201215T180718Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201208T150537Z" creationid="amandafong" creationdate="20201208T150520Z">
         <seg>Ye Luo glanced at the worried Ye Mei. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>叶洛眉眼一寒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T181732Z" creationid="amandafong" creationdate="20201215T181732Z">
+        <seg>Ye Luo's gaze turned cold. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6975,5 +6991,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">0015.txt</prop>
+      <prop type="prev">叶洛眉眼一寒。</prop>
+      <prop type="next">.....</prop>
+      <tuv lang="zh-CN">
+        <seg>果然。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T181740Z" creationid="amandafong" creationdate="20201215T181740Z">
+        <seg>Just as he expected. </seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
