@@ -120,8 +120,8 @@
       <tuv lang="zh-CN">
         <seg>“一次两次都不交，你当老师是摆设吗？给我出去站着！等会教室的卫生你来的就交给你来打扫！”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201215T155356Z" creationid="amandafong" creationdate="20201215T155356Z">
-        <seg>"You repeatedly failed to submit your papers. Do you think I wn</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T155439Z" creationid="amandafong" creationdate="20201215T155356Z">
+        <seg>"You repeatedly failed to submit your papers. Do you think I won't do anything? Go out and stand outside the classroom! You'll be in charge of cleaning the classroom later!" </seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1754,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201214T171010Z" creationid="amandafong" creationdate="20201214T171010Z">
         <seg>Everyone's attitudes immediately became reversed. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人的目光一下就落到了叶漓身上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T155446Z" creationid="amandafong" creationdate="20201215T155357Z">
+        <seg>Everyone looked at Ye Li again. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3754,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201206T171456Z" creationid="amandafong" creationdate="20201206T171456Z">
         <seg>Due to the sensitivity of her identity, she had always been keeping it a secret. Other than Ye Mei and her brothers, no one else in school knew about it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她还没说话，前排的叶眉就站了起来，一脸犹豫的说道：“老师，我姐姐不是故意不交的，您能不能不要惩罚她？她从小到大就没干过粗活，可能....”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201215T155640Z" creationid="amandafong" creationdate="20201215T155640Z">
+        <seg>Before she could say anything, Ye Mei, who was in the front row, stood up and said with a hesitant expression, "Teacher, my sister didn't mean not to submit the paper. Could you spare her from the punishment? She's never done any hard labor since she was a child, maybe..." </seg>
       </tuv>
     </tu>
     <tu>
