@@ -639,3 +639,4 @@
 班长	class president
 徐晗	Xu Han
 御食坊	Imperial Restaurant
+爷爷	grandfather
