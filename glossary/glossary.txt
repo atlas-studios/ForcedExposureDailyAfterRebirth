@@ -641,3 +641,5 @@
 御食坊	Imperial Restaurant
 爷爷	grandfather
 凤年	Fengnian
+叶明	Ye Ming
+女儿	daughter
