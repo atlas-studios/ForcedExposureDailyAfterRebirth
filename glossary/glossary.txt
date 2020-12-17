@@ -644,3 +644,4 @@
 叶明	Ye Ming
 女儿	daughter
 爸爸	Father
+公文包	briefcase
