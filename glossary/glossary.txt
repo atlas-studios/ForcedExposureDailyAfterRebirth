@@ -647,3 +647,5 @@
 公文包	briefcase
 叶父	Ye Ming
 x三	homewrecker
+经纪人	manager
+助理	assistant
