@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我什么时候要能跟偶像吃顿饭，我当场猝死都愿意！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201218T150902Z" creationid="amandafong" creationdate="20201218T150902Z">
+        <seg>"If I ever get to have a meal with my idol, I'd be willing to die on the spot!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我们过去就知道了。”叶眉心里也是疑惑，很想去看看叶漓说的到底是谁。</seg>
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201218T145453Z" creationid="amandafong" creationdate="20201218T145453Z">
@@ -6242,6 +6250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201209T141642Z" creationid="amandafong" creationdate="20201209T141526Z">
         <seg>Ye Mei shook her head and said, "It's alright, this grievance is nothing. I don't want Brothers to be angry all the time because of me." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>叶眉早就预料到这种情况，这会儿脸上带着温柔的笑容，周围的人纷纷也给她让开了道，着实一副众星捧月的场面。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201218T151142Z" creationid="amandafong" creationdate="20201218T151142Z">
+        <seg>Ye Mei had long expected that situation. At this moment, she was smiling warmly while everyone else parted to make way for her, as if she was a celebrity making an entrance. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11480,6 +11496,17 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201215T181740Z" creationid="amandafong" creationdate="20201215T181740Z">
         <seg>Just as he expected. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">0024.txt</prop>
+      <prop type="prev">“我什么时候要能跟偶像吃顿饭，我当场猝死都愿意！”</prop>
+      <prop type="next">叶眉早就预料到这种情况，这会儿脸上带着温柔的笑容，周围的人纷纷也给她让开了道，着实一副众星捧月的场面。</prop>
+      <tuv lang="zh-CN">
+        <seg>众人艳羡的目光落到了叶眉身上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201218T150912Z" creationid="amandafong" creationdate="20201218T150912Z">
+        <seg>Everyone cast looks of envy at Ye Li.</seg>
       </tuv>
     </tu>
   </body>
