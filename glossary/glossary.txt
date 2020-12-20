@@ -658,3 +658,5 @@ x三	homewrecker
 微博	Twitter
 孟非	Meng Fei
 孟母	Meng Fei's mother
+校长	principal
+孟父	Meng Fei's father
