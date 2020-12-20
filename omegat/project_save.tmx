@@ -9194,8 +9194,8 @@
       <tuv lang="zh-CN">
         <seg>无论是贴吧，还是微博，还是社交圈子，都被这门话题刷屏。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="amandafong" changedate="20201220T092450Z" creationid="amandafong" creationdate="20201220T092450Z">
-        <seg> 无论是贴吧，还是微博，还是社交圈子，都被这门话题刷屏。</seg>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201220T092723Z" creationid="amandafong" creationdate="20201220T092450Z">
+        <seg>That topic was on the front page of all social media platforms like Twitter and Reddit. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,6 +10540,14 @@
       </tuv>
       <tuv lang="en-US" changeid="amandafong" changedate="20201216T073015Z" creationid="amandafong" creationdate="20201216T073015Z">
         <seg>Had Ye Li not known his true colors, she would have probably fallen into his trap. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>落寞的雪转发了微博：“我不相信，这不是真的，你们都在骗我！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="amandafong" changedate="20201220T092859Z" creationid="amandafong" creationdate="20201220T092859Z">
+        <seg>Lonely Snow has reblogged: "I don't believe it, this is not real, you're all lying to me!"</seg>
       </tuv>
     </tu>
     <tu>
